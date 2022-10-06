@@ -1,0 +1,22 @@
+body{
+    background-color: #1d3557;
+    color: #f1faee;
+}
+
+.photo{
+    width: 300px;
+    border-radius: 50px;
+    border: 10px solid #AFD5AA;
+}
+
+.description{
+    width: 600px;
+    font-size: 24px;
+}
+
+a{
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    color: #457b9d;
+}
